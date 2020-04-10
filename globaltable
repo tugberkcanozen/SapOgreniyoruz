@@ -1,0 +1,4 @@
+Data: gt_ornektablo like gs_ornekstructure occurs 0 with header line. "Burada occurs 0 oluşturduğumuz tabloya veri eklemede herhangi bir sınır olmadığını belirtiyor. 10 deseydik 10 veri ekleyebilrdik.
+****tabloyu oluşturduk burada like yerine type da kullanabilirdik fakat type kullansaydık bir tabloya atamamız gerekirdi
+****with header line ise tablonun başlığına structure verilerini atadık header'dan 1. indekse verileri atamak için append komutunu kullanacağız
+append gt_ornekstructure
